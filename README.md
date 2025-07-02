@@ -1,4 +1,5 @@
 # Custom Layout Defi
+This is the custom layout defi that can customize the layout of portfolio widgets.
 
 This is developy by using [T3 Stack](https://create.t3.gg/).
 
